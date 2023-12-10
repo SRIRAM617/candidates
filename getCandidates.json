@@ -1,1 +1,209 @@
-{"record":{"candidates":[{"candidateId":1,"name":"Alice Johnson","certificates":[],"yearsOfExperience":4,"skills":["Java","Software Development","Problem Solving"],"preferedLocation":["San Francisco","Seattle"],"preferredSalaryIn$":80000,"gradeLevel":["Intermediate","Senior"],"qualification":"Bachelor's Degree in Computer Science"},{"candidateId":2,"name":"Bob Smith","certificates":[],"yearsOfExperience":6,"skills":["Machine Learning","Data Analysis","Python"],"preferedLocation":["New York"],"preferredSalaryIn$":100000,"gradeLevel":["Senior"],"qualification":"Master's Degree in Data Science"},{"candidateId":3,"name":"Charlie Davis","certificates":[],"yearsOfExperience":5,"skills":["Digital Marketing","Campaign Management","Market Research"],"preferedLocation":["Los Angeles"],"preferredSalaryIn$":90000,"gradeLevel":["Intermediate","Senior"],"qualification":"Bachelor's Degree in Marketing"},{"candidateId":4,"name":"David Thompson","certificates":[],"yearsOfExperience":3,"skills":["Innovative Teaching","Classroom Management","Mathematics"],"preferedLocation":["Chicago"],"preferredSalaryIn$":70000,"gradeLevel":["Primary","Intermediate"],"qualification":"Bachelor's Degree in Mathematics"},{"candidateId":5,"name":"Eva White","certificates":[],"yearsOfExperience":4,"skills":["User Interface Design","User Experience Research","Prototyping"],"preferedLocation":["Seattle"],"preferredSalaryIn$":80000,"gradeLevel":["Intermediate"],"qualification":"Bachelor's Degree in Design"},{"candidateId":6,"name":"Frank Miller","certificates":[],"yearsOfExperience":7,"skills":["Math Instruction"],"preferedLocation":["Chicago","New York"],"preferredSalaryIn$":85000,"gradeLevel":["Intermediate"],"qualification":"Bachelor's Degree in Mathematics"},{"candidateId":7,"name":"Grace Turner","certificates":[],"yearsOfExperience":6,"skills":["Digital Marketing","Campaign Management","Market Research"],"preferedLocation":["Los Angeles"],"preferredSalaryIn$":95000,"gradeLevel":["Intermediate","Senior"],"qualification":"Bachelor's Degree in Marketing"},{"candidateId":8,"name":"Henry Clark","certificates":[],"yearsOfExperience":5,"skills":["Java","Software Development","Problem Solving"],"preferedLocation":["San Francisco","Seattle"],"preferredSalaryIn$":90000,"gradeLevel":["Intermediate","Senior"],"qualification":"Master's Degree in Computer Science"},{"candidateId":9,"name":"Isaac Turner","certificates":[],"yearsOfExperience":3,"skills":["User Interface Design","User Experience Research","Prototyping"],"preferedLocation":["Seattle"],"preferredSalaryIn$":75000,"gradeLevel":["Intermediate"],"qualification":"Bachelor's Degree in Design"},{"candidateId":10,"name":"Jasmine Lee","certificates":[],"yearsOfExperience":4,"skills":["Innovative Teaching","Classroom Management","Mathematics"],"preferedLocation":["Chicago","New York"],"preferredSalaryIn$":80000,"gradeLevel":["Primary","Intermediate"],"qualification":"Bachelor's Degree in Mathematics"}]},"metadata":{"id":"657495a70574da7622d29f45","private":false,"createdAt":"2023-12-09T16:28:23.761Z"}}
+{
+  "record": {
+    "candidates": [
+      {
+        "candidateId": 1,
+        "name": "Alice Johnson",
+        "certificates": [],
+        "yearsOfExperience": 4,
+        "skills": [
+          "Java",
+          "Software Development",
+          "Problem Solving"
+        ],
+        "preferedLocation": [
+          "San Francisco",
+          "Seattle"
+        ],
+        "preferredSalaryIn$": 80000,
+        "gradeLevel": [
+          "Intermediate",
+          "Senior"
+        ],
+        "qualification": "Bachelor's Degree in Computer Science"
+      },
+      {
+        "candidateId": 2,
+        "name": "Bob Smith",
+        "certificates": [],
+        "yearsOfExperience": 6,
+        "skills": [
+          "Machine Learning",
+          "Data Analysis",
+          "Python"
+        ],
+        "preferedLocation": [
+          "New York"
+        ],
+        "preferredSalaryIn$": 100000,
+        "gradeLevel": [
+          "Senior"
+        ],
+        "qualification": "Master's Degree in Data Science"
+      },
+      {
+        "candidateId": 3,
+        "name": "Charlie Davis",
+        "certificates": [],
+        "yearsOfExperience": 5,
+        "skills": [
+          "Digital Marketing",
+          "Campaign Management",
+          "Market Research"
+        ],
+        "preferedLocation": [
+          "Los Angeles"
+        ],
+        "preferredSalaryIn$": 90000,
+        "gradeLevel": [
+          "Intermediate",
+          "Senior"
+        ],
+        "qualification": "Bachelor's Degree in Marketing"
+      },
+      {
+        "candidateId": 4,
+        "name": "David Thompson",
+        "certificates": [],
+        "yearsOfExperience": 3,
+        "skills": [
+          "Innovative Teaching",
+          "Classroom Management",
+          "Mathematics"
+        ],
+        "preferedLocation": [
+          "Chicago"
+        ],
+        "preferredSalaryIn$": 70000,
+        "gradeLevel": [
+          "Primary",
+          "Intermediate"
+        ],
+        "qualification": "Bachelor's Degree in Mathematics"
+      },
+      {
+        "candidateId": 5,
+        "name": "Eva White",
+        "certificates": [],
+        "yearsOfExperience": 4,
+        "skills": [
+          "User Interface Design",
+          "User Experience Research",
+          "Prototyping"
+        ],
+        "preferedLocation": [
+          "Seattle"
+        ],
+        "preferredSalaryIn$": 80000,
+        "gradeLevel": [
+          "Intermediate"
+        ],
+        "qualification": "Bachelor's Degree in Design"
+      },
+      {
+        "candidateId": 6,
+        "name": "Frank Miller",
+        "certificates": [],
+        "yearsOfExperience": 7,
+        "skills": [
+          "Math Instruction"
+        ],
+        "preferedLocation": [
+          "Chicago",
+          "New York"
+        ],
+        "preferredSalaryIn$": 85000,
+        "gradeLevel": [
+          "Intermediate"
+        ],
+        "qualification": "Bachelor's Degree in Mathematics"
+      },
+      {
+        "candidateId": 7,
+        "name": "Grace Turner",
+        "certificates": [],
+        "yearsOfExperience": 6,
+        "skills": [
+          "Digital Marketing",
+          "Campaign Management",
+          "Market Research"
+        ],
+        "preferedLocation": [
+          "Los Angeles"
+        ],
+        "preferredSalaryIn$": 95000,
+        "gradeLevel": [
+          "Intermediate",
+          "Senior"
+        ],
+        "qualification": "Bachelor's Degree in Marketing"
+      },
+      {
+        "candidateId": 8,
+        "name": "Henry Clark",
+        "certificates": [],
+        "yearsOfExperience": 5,
+        "skills": [
+          "Java",
+          "Software Development",
+          "Problem Solving"
+        ],
+        "preferedLocation": [
+          "San Francisco",
+          "Seattle"
+        ],
+        "preferredSalaryIn$": 90000,
+        "gradeLevel": [
+          "Intermediate",
+          "Senior"
+        ],
+        "qualification": "Master's Degree in Computer Science"
+      },
+      {
+        "candidateId": 9,
+        "name": "Isaac Turner",
+        "certificates": [],
+        "yearsOfExperience": 3,
+        "skills": [
+          "User Interface Design",
+          "User Experience Research",
+          "Prototyping"
+        ],
+        "preferedLocation": [
+          "Seattle"
+        ],
+        "preferredSalaryIn$": 75000,
+        "gradeLevel": [
+          "Intermediate"
+        ],
+        "qualification": "Bachelor's Degree in Design"
+      },
+      {
+        "candidateId": 10,
+        "name": "Jasmine Lee",
+        "certificates": [],
+        "yearsOfExperience": 4,
+        "skills": [
+          "Innovative Teaching",
+          "Classroom Management",
+          "Mathematics"
+        ],
+        "preferedLocation": [
+          "Chicago",
+          "New York"
+        ],
+        "preferredSalaryIn$": 80000,
+        "gradeLevel": [
+          "Primary",
+          "Intermediate"
+        ],
+        "qualification": "Bachelor's Degree in Mathematics"
+      }
+    ]
+  },
+  "metadata": {
+    "id": "657495a70574da7622d29f45",
+    "private": false,
+    "createdAt": "2023-12-09T16:28:23.761Z"
+  }
+}
